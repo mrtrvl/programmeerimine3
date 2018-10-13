@@ -1,0 +1,11 @@
+/Users/marttiraavel/Progemine/programmeerimine3/esimeneTund/myApp/bin/Debug/netcoreapp2.1/myApp.deps.json
+/Users/marttiraavel/Progemine/programmeerimine3/esimeneTund/myApp/bin/Debug/netcoreapp2.1/myApp.runtimeconfig.json
+/Users/marttiraavel/Progemine/programmeerimine3/esimeneTund/myApp/bin/Debug/netcoreapp2.1/myApp.runtimeconfig.dev.json
+/Users/marttiraavel/Progemine/programmeerimine3/esimeneTund/myApp/bin/Debug/netcoreapp2.1/myApp.dll
+/Users/marttiraavel/Progemine/programmeerimine3/esimeneTund/myApp/bin/Debug/netcoreapp2.1/myApp.pdb
+/Users/marttiraavel/Progemine/programmeerimine3/esimeneTund/myApp/obj/Debug/netcoreapp2.1/myApp.csprojAssemblyReference.cache
+/Users/marttiraavel/Progemine/programmeerimine3/esimeneTund/myApp/obj/Debug/netcoreapp2.1/myApp.csproj.CoreCompileInputs.cache
+/Users/marttiraavel/Progemine/programmeerimine3/esimeneTund/myApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfoInputs.cache
+/Users/marttiraavel/Progemine/programmeerimine3/esimeneTund/myApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfo.cs
+/Users/marttiraavel/Progemine/programmeerimine3/esimeneTund/myApp/obj/Debug/netcoreapp2.1/myApp.dll
+/Users/marttiraavel/Progemine/programmeerimine3/esimeneTund/myApp/obj/Debug/netcoreapp2.1/myApp.pdb
